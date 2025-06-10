@@ -24,6 +24,7 @@ git clone link_here
 pip install -r requirements.txt
 
 3️⃣ Run the AI Code Reviewer
+use `pip install notebook` if jupyter nbconvert shows issue
 
 ![image](https://github.com/user-attachments/assets/4abfffaa-aadb-4b04-b649-1b17c89d9580)
 
